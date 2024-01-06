@@ -5,5 +5,7 @@
 1-DIO driver
 2-LCD driver  
 3-ADC driver    
-4-KPD driver
+4-KPD driver   
+
+# How it works ?  
 -when you enter the correct password , you will login the sustem and read Temperature and write its value on LCD and you only have 3 attempts to try it.If you enter the password incorrectly more than 3 times, the system will shut down for 5 seconds.  
