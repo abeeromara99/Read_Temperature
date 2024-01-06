@@ -2,7 +2,7 @@
 -This project utilizes Atmega32 microcontroller,LM35 sensor,LCD (16x2)character and Keypad
 
 # Driver Implemented:  
-1-DIO driver
+1-DIO driver  
 2-LCD driver  
 3-ADC driver    
 4-KPD driver   
